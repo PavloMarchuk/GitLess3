@@ -15,6 +15,7 @@ namespace GitWinForm
 		public PropertyWindow()
 		{
 			InitializeComponent();
+			int a =0;
 		}
 	}
 }
